@@ -1,0 +1,23 @@
+body header ul{
+	color: #000;
+	list-style: none;
+	background:red;
+	margin: 0;
+}
+body div{
+	background:#000;
+}
+
+p{
+	color:blue;
+	font-size: 20px;
+}
+body header ul:hover{
+	list-style-type: #FFF;
+
+}
+footer{
+	background: green;
+    text-align: center;
+    text-decoration-color: red;
+}
